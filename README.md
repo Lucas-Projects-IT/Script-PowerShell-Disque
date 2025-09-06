@@ -6,6 +6,7 @@ Ce script PowerShell vérifie l’espace libre sur les disques durs de ton ordin
 Il affiche pour chaque disque la taille totale, l’espace libre, et le pourcentage d’espace restant.
 
 Si un disque a moins de 20% d’espace libre (modifiable), le script affiche une alerte en rouge.
+https://github.com/Lucas-Projects-IT/Script-PowerShell---V-rification-de-l-espace-disque/blob/main/Disk%2020%25.png?raw=true
 
 Pourquoi l’utiliser ?
 
