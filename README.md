@@ -11,6 +11,8 @@ Il affiche pour chaque disque la taille totale, l’espace libre, et le pourcent
 
 Si un disque a moins de 20% d’espace libre (modifiable), le script affiche une alerte en rouge.
 
+**Note : Pour les tests, j’ai temporairement mis le seuil à 80 % afin de mieux voir les alertes.**
+
 
 <img width="1038" height="808" alt="Disk 80_" src="https://github.com/user-attachments/assets/e01fe2f8-1de3-4676-a92e-a037bbeb5fa5" />
 
