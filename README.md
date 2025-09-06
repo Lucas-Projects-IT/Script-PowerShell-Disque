@@ -33,4 +33,4 @@ Si un disque a moins de 20% d’espace libre (modifiable), le script affiche une
 
 - Regarde les messages pour voir si un disque est presque plein.
 
-!! Tu peux changer le seuil d’alerte dans la variable $alertThreshold au début du script !!
+‼️Tu peux changer le seuil d’alerte dans la variable $alertThreshold au début du script‼️
