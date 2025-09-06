@@ -11,20 +11,20 @@ Si un disque a moins de 20% d’espace libre (modifiable), le script affiche une
 <img width="1038" height="808" alt="Disk 80_" src="https://github.com/user-attachments/assets/e01fe2f8-1de3-4676-a92e-a037bbeb5fa5" />
 
 
-Pourquoi l’utiliser ?
+**Pourquoi l’utiliser ?**
 
-Pour savoir rapidement si tu manques d’espace sur tes disques.
+- Pour savoir rapidement si tu manques d’espace sur tes disques.
 
-Pour éviter les problèmes liés à un disque trop plein (ralentissements, erreurs).
+- Pour éviter les problèmes liés à un disque trop plein (ralentissements, erreurs).
 
-Simple et rapide, pas besoin d’installer d’autres outils.
+- Simple et rapide, pas besoin d’installer d’autres outils.
 
-Comment l’utiliser ?
+**Comment l’utiliser ?**
 
-Ouvre PowerShell.
+- Ouvre PowerShell.
 
-Lance le script.
+- Lance le script.
 
-Regarde les messages pour voir si un disque est presque plein.
+- Regarde les messages pour voir si un disque est presque plein.
 
 Tu peux changer le seuil d’alerte dans la variable $alertThreshold au début du script.
