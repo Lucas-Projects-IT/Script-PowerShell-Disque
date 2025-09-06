@@ -1,4 +1,8 @@
 # Script PowerShell Vérification d’Espace Disque
+
+
+<img width="933" height="146" alt="commande" src="https://github.com/user-attachments/assets/1eccd18a-12c6-4cf8-8498-e6ebf212d629" />
+
  
 **À quoi ça sert ?**
 
