@@ -1,6 +1,6 @@
 # Script PowerShell Vérification d’Espace Disque
  
-À quoi ça sert ?
+**À quoi ça sert ?**
 
 Ce script PowerShell vérifie l’espace libre sur les disques durs de l'ordinateur.
 Il affiche pour chaque disque la taille totale, l’espace libre, et le pourcentage d’espace restant.
